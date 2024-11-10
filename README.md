@@ -3,3 +3,9 @@
 Dataset link:
 https://www.kaggle.com/datasets/ayushsahu23/diwali-sales-analysis
 
+libraries used:
+numpy
+matplotlib
+pandas
+seaborn
+
